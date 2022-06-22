@@ -20,7 +20,7 @@ const index = () => {
           <div className="col-lg-7 mb-5 pb-5 mb-lg-0 pb-lg-0">
             <div className="wrapper">
               <div className="pe-0 pe-lg-5">
-                <h2 className="fw-normal fs-2 text-border-top fw-bold mb-5">
+                <h2 className="fs-2 text-border-top fw-bold mb-5">
                   Turn-key solutions
                 </h2>
                 <p className="fs-5 mb-4">

@@ -5,7 +5,7 @@ const index = (props) => {
     <div className="col-lg-5">
       <div className="wrapper">
         <div className="pe-0 pe-lg-5">
-          <h2 className="fw-normal fs-2 text-border-top fw-bold mb-5">
+          <h2 className="fs-2 text-border-top fw-bold mb-5">
             {props.title}
           </h2>
           {props.lists ? (
