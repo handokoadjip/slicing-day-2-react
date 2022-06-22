@@ -6,7 +6,7 @@ const index = () => {
     <nav className="navbar fixed-top navbar-light px-4">
       <div className="container-fluid">
         <Link
-          className="navbar-brand text-center d-none d-lg-block mp-0 fw-bolder fs-1 ff-karla ls--3px"
+          className="navbar-brand text-center mp-0 fw-bolder fs-1 ff-karla ls--3px"
           to="#"
         >
           Simplā
